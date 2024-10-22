@@ -23,7 +23,3 @@ Things I am passionate about
 🧠 Neural Networks- Tensorflow & Keras, PyTorch
 
 👁️ Computer Vision
-
-Vivekanand's Total Stats:
-
-Visitor's Count:
