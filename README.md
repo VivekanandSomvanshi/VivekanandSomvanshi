@@ -11,7 +11,7 @@
 Here are some ideas to get you started: -->
 - I'm Vivekanand Somvanshi Artificial Intelligence and Machine Learning Engineer.
 - 🔭 I’m currently working on Data Science and Machine Learning projects.
-- 🌱 I’m currently learning GenAI, MLOPS, LLMs, Recommender System, Advance NLP and GCP,AWS.
+- 🌱 I’m currently learning GenAI, MLOPS, LLMs, Recommender System, Advance NLP and AWS.
 - B.E. Mechanical Engineering from COEA.
 - TA at Coding Ninjas.
 
